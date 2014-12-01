@@ -3,3 +3,6 @@ Nothing gets put in the repository.  You must add files to it.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It allows an intermediate step before committing.  Could be valuable if you want to commit files together vs separately.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Allows you to dive deeper into certain aspects of your code without comprimising the overall integrity.
